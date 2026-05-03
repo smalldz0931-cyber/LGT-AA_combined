@@ -1,2 +1,5 @@
 # LGT-AA_combined
 基于特征融合的大模型生成文本检测技术研究
+feature_generation文件夹下为特征提取相关程序
+train文件夹下是训练和评估相关程序
+LGT-AA_combined为数据集
